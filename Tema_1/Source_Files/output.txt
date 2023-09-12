@@ -1,0 +1,31 @@
+Creati-va masina:
+B 802 TMV ##INPUT
+
+Creati-va soferul:
+Numele: Bivol ##INPUT
+Prenume: Mihai ##INPUT
+
+Ati creat cu succes masina: B 802 TMV 1 Bivol Mihai
+ 
+Soferul 1 este: Bivol Mihai
+Soferul 2 este: Zugravu Alexandra
+Soferul 3 este: Dobrin Ionut
+Soferul 4 este: Stoica Cristian
+Soferul 5 este: Payam Erdeem
+
+masinile: B 10 DEF si B 23 ABC sunt conduse de acceasi soferi.
+
+B 10 DEF 2 Bivol Mihai
+ Zugravu Alexandra
+ 
+B 23 ABC 2 Zugravu Alexandra
+ Bivol Mihai
+ 
+Masina de pe fisa 1 are mai multi soferi asignati
+Fisa 1 : B 802 TMV 5 Bivol Mihai
+ Zugravu Alexandra
+ Dobrin Ionut
+ Stoica Cristian
+ Payam Erdeem
+ 
+Fisa 2 : B 59 XYZ 1 Popescu George
